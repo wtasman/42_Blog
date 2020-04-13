@@ -1,0 +1,19 @@
+How to get a negative 42 during the piscine.
+
+I am hoping to inform students of a critical mistake I made so hopefully they can avoid making the same mistake in the future.
+
+During the piscine it is vital to become accustomed to failure. Student’s, especially myself, get zero’s on a regular basis. I read somewhere to think of building software kind of like a car. If everything is not put together properly, it just won’t work. Similar to if you built a car but left off the wheels it is worthless.
+
+Since nearly everyone at the piscine are amateurs, it is difficult for us to build perfectly operating programs. There are often many unconsidered special cases, input we don’t account for, or just exercises we don’t have time to complete. Zero’s and failure are something one just gets accustomed to around here, but a -42, that is different. That is worse. It means you cheated and therefore must be punished.
+
+Even worse, I received mine on an exam. From what I have been told the exams are extremely important at the piscine and is one of the main ways the staff evaluates your improvement. I did well on my first exam and so obviously that is a huge regression. However, I am not even mad. I deserved it.
+
+I don’t know if I was just too tired or if I really am just much worse at programming than I realized but I struggled from the very first problem. The exams are structured so that you only get access to one problem at a time. In order to receive points for a problem it must work perfectly to their standards before you ever submit it. Submit non working code and another problem for even less points becomes available. For my exam I worked on the first problem for three and a half hours and never got it to work.
+
+Since I knew I could fail the problem and then just get a new one, I decided that would be my best course of action. That way maybe I could get some points before the exam was over. My next problem wasn’t necessarily easier but it was one that I had already succeeded at the week before. However with only a half an hour I tried to reduce the code to its simplest form that way I could write it as fast as possible. I used a technique that I knew was forbidden.
+
+Well, I wasn’t sure it was forbidden but at the time I was willing to find out. The reason I say I deserve it isn’t because of that though. I deserve it because I came into the exam unable to even complete the first problem. I deserved a zero at least, and then add on top of that rushing around and cheating, I did not deserve a positive test result. In reality, I should have been far more prepared.
+
+More than the specific error I made, I want students to take away from this that you should go into an exam with a level head that most importantly is well rested. You should come prepared and have a lot of practice with the exercises you have completed. This part is kind of irrelevant, but NEVER use functions you haven’t been taught and more specifically DON’T USE printf.
+
+However, if it does happen to you, don’t get discouraged. Just do what I did and realize; Hey you can only go up from here.

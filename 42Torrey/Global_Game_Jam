@@ -1,0 +1,38 @@
+Global Game Jam 2017. My first trip to Facebook.
+January 26, 2017 
+
+ In this post, I would like to recap my weekend at the Facebook campus building my first video game. 1 Hacker Way, Facebook Headquarters, is just miles away from 42. Facebook was one of the hundreds of sites hosting a Global Game Jam event. Global Game Jam is the largest game creation event taking place at physical locations around the world. Think of it as a hackathon focused on game development. My team built a VR game from scratch called reVeRb which in my opinion, is one of the most impressive things I have done with my time in California. I had an amazing time, ate like a king, learned a breadth of new skills, and met handfuls of amazing people.
+
+After a long shower at 3 in the afternoon Friday I began packing my things for the lengthy weekend ahead. Having a couple of hackathons under my belt I knew the daunting task I was facing. When I signed up for Global Game Jam I researched the event. What I learned is that we would be building a game in one weekend. I learned the Global Game Jam wasn’t a typical hackathon in that there were no prizes and no judging or ranking. It was truly just a bunch of people getting together to have fun building things.
+
+What I liked about the event I had signed up for was that it was at Facebook HQ, right across the Dumbarton Bridge from 42. I had not been to Facebook but as a software developer, you often hear stories of how amazing of a company it is to work for. The Global Game Jam seemed like the perfect opportunity to experience the campus for the first time. I was not wrong. Throughout the weekend Facebook and their staff hosting the event continued to amaze me. They served us 4 meals a day, gave us bottomless access to drinks and snacks, then capped off every evening with an open bar. They also gave us a quiet area to sleep, access to showers, and free toiletries. Rarely have I seen such hospitality. Mind you this was all for free.
+
+As much as I enjoyed the generosity of Facebook, I believe the knowledge I gained and the friendships I formed were the best part of the experience.
+
+Global Game Jam started promptly at 5. There was a video explaining what was expected from us. What they wanted was a game. It didn’t matter what kind. It could be any kind of game, built with whatever you wanted. They just wanted the game to have a playable demo by the end of the weekend. We were however given a theme. The common theme that all of our games were to be built around was Waves.
+
+To get us to begin meeting each other and brainstorming facebook had us do a team building exercise. They split us up into groups by our birth month and each group tried to come up with an idea. After 15 minutes of meeting each other brainstorming and discussing each group presented what they had come up with. For March we had two pretty good game concepts. Neither of which ended up being developed because after each month presented we all had the option of joining teams that had ideas we were interested in. I pretty much talked to every team but asked to join a team that was developing a very interesting virtual reality game.
+
+I met a group of friends Lucas, Tyler, and Ian whose idea was somewhat of a survival horror game. Where the character is blind and can only see by echolocation. Meaning they must make or hear a noise to get an outline of their environment. However, the person is also being chased by a monster that hunts them every time they make a sound. Therefore, it is imperative to spend most of the time walking around blind. I loved the idea but was extremely intimidated by the concept of VR. I had never made a game before let alone in this brand new medium.
+
+The team didn’t care, they were happy to have me. I was comforted by the fact that a friend of mine from 42 Pete had already joined. They had also already attracted the attention of a Facebook developer named Ori, as well as Mike a Software Developer from a nearby city. I convinced someone I met from the team building exercise named Jeremy to join us. Together we made team reVeRb and we quickly got to work.
+
+Ian managed to get us all organized by centralizing our ideas and delegating us all with different projects. He organized our weekend into accomplishable tasks and provided us with the HTC Vive we would be developing our game for. Having never worked with unity before I volunteered for a task I thought I could handle. Sound.
+
+Doing the sound seemed feasible to me. I later came to realize how vital the sound is in a game where the main character is blind. Delivering realistic sound that doesn’t confuse or annoy the player can sometimes be more difficult than I anticipated.
+
+Lucas had come up with the original idea so he did a lot of the visualization and game design.  He laid out his idea of a level and the design of all of its objects. Lucas also created our logo and the death animation.
+
+Tyler was responsible for the development of the game on the Unity platform. The man was a wizard in VR development and almost single-handedly developed the physics of our game. He also handled the monster AI and countless object interactions.
+
+The couple of tasks we were all intimidated by were delegated to Ori. The Facebook developer that had joined our team. Ori handled one of the most important aspects of our game, the visualization of the sound wave. He not only made it happen but continued to improve it throughout the weekend, making it more beautiful and easier to use. He also implemented our own form of movement in VR. Instead of using a D-pad on the controller Ori made swinging arm motions a method of movement in our game. Truly amazing.
+
+Pete used Blender to flawlessly create 3d objects at an incredible pace. Hourly someone had a new idea of an object they wanted to add to the game and Pete was eager to create. Pete constructed every object from scratch. Coffee cups, a gramophone, furniture, liquor bottles, and books just to name a few.
+
+Jeremy was in control of managing our git repo. He helped anyone and everyone push to the repository without damaging our project. He also helped develop a few objects and layouts for our level. Jeremy had a lot of experience developing games at hackathons and was loaded with pointers to help us finish the hackathon with a product to demo.
+
+Mike had a lot of similar experience. He had been attending several hackathons a month leading up to the Global Game Jam. He was always happy to share his experience and educate. I relied on him several times to explain me different concepts or tools I was having a hard time understanding.
+
+Together our team had a constant workflow with no arguments or interruptions. We all had our tasks and worked tirelessly to finish our product. Team reVeRb, was one of the most successful and hard working teams I had ever been on. I am 100% happy I joined this team and am extremely grateful for the friendships I formed. I would eagerly work with any of my team members again in the future.
+
+As seen in the video heading this post, we succeeded. Our game came to fruition and did everything we wanted it to do. On top of all of that, it was extremely fun to play.  I want to thank everyone involved. The founders and volunteers at Global Game Jam. Our host Facebook, their staff, and our organizer Colin. I want to thank every other participant in Global Game Jam and in particular the ones at Facebook. But most of all I want to thank my friends and team Pete, Tyler, Ian, Lucas, Jeremy, Ori and Mike. You all were amazing and I appreciate everything you did in making my weekend so memorable. I will return next year and can’t wait to make a game with you all again.

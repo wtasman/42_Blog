@@ -1,0 +1,68 @@
+My first Hackathon. Facil-ePharm.
+December 7, 2016
+
+42.  A place of opportunity.
+
+This school has given me more chances to try things that interest me than I can possibly count. Daily I am presented with new challenges and problems I would have never thought to try on my own. It involves me in a community which makes solving these problems and even greater ones fun and educational. I have also noticed 42 gives me access to an industry I once thought unreachable.
+
+Well, recently they gave me another chance to experience something new. My first Hackathon. I am extremely grateful for the opportunity because it is something I have wanted to try for the longest time. I just never felt comfortable signing up for a one for several different reasons. Mostly, I considered myself too inexperienced. Having never done anything like a hackathon before it intimidated me. I was also worried my lack of computer skills would hurt a team rather than improve it.
+
+Luckily, my first hackathon was at 42 and amongst my peers. This comforted me because I knew my classmates would help me. Rather than seeing me as a dead weight, they would teach me and push me to succeed. That is exactly what happened.
+
+A hackathon is an involved process. In order to make understanding the structure easier to understand and to make future hackathons easier to present I have broken my experience into 5 steps:
+
+    Getting a Prompt
+    Forming a Team
+    Picking a Project
+    Building a Project
+    Presenting It.
+
+Below I will break down each step and describe my experience in this particular hackathon.
+
+Getting a Prompt
+
+At the start of any hackathon will be a presentation from the company hosting it. The presentation will usually be interesting and quite informative. Most importantly the presentation will introduce a problem.
+
+The problem could literally be anything. The goal is to solve this problem, a piece of it, or an even bigger one with code. The directions are usually quite minimal which leaves the solutions open to the imagination. These events are meant to be challenging, thought provoking and profound.
+
+For my first hackathon, the company was Facil-ePharm. This was a new startup in France, which was trying to revolutionize the pharmaceutical industry. A pharmacist gave a presentation in which he showed a problem in his pharmacy. He said the customers come to him and wait for the prescription to be filled. He wants to improve the customer experience in his pharmacy. By the end of the presentation, it is clear the real goal is to make his job easier.
+
+There were only two restrictions. The first that you must have a team of 5 members. Secondly, that you have to be finished at 3p.m. two days from now. I was quite frightened because that was less than 40 hours away.
+
+Forming a Team
+
+The second part of any hackathon will be forming a team. Some people will come with friends they intend to work with. Often, though individuals or even these teams will want to combine to form a more dynamic and capable team.
+
+After the presentation, we had a quick little cocktail hour. A few snacks and drinks gave us students a chance to mingle and discuss the ideas we formed from the prompt. We were all hoping to find, join or form a team.
+
+Fortunately for me, a group of really smart friends from the July piscine came and asked if I wanted to join. Devin, Deb, Matt and I were joined by Joanna to complete our 5. We quickly got to work.
+
+Picking a Project
+
+After you have your team, everyone has to get together and decide what problem you will solve, what it is you are building, what it will look like, what language it will be written in, who is building what, how you will present it and so much more. The idea is to come together and combine everyone’s skills to your advantage.
+
+We took our team upstairs and started brainstorming ideas. After a lengthy discussion, we found a problem we thought we could solve and a direction to head in.
+
+We decided we would build a program in C that would flag any drug interactions a Pharmacist would have to look for. Not just drug interactions but health risks that could arise from different medicine combinations. Essentially it would use a patient’s profile to compare a drug they are trying to fill with all of the drugs they are currently taking and all of the diseases or pre-existing conditions they already have.
+
+Building a Project
+
+After deciding what project to build it is important to start working on it. The first step is to decide how you will get from where you are now, nothing, to the final product you envision. It usually helps to set some guidelines, what languages you will be using, a sort of code standard, what role everyone will be playing.
+
+After establishing what your team is building and how the remainder of the hackathon will be nonstop work. Your team should be together, working, helping each other leap over every obstacle you encounter along the way. It should be a challenging yet rewarding experience
+Our first task was to develop a structure we could all use. That didn’t take long. Considering the presentation started at 9 p.m. by the time we had gotten all of this figured out we were exhausted. We decided to call it a night and meet back up bright and early the next morning.
+
+After a short nights rest, my team reassembled and we started building functions that could evaluate the structure we developed. We all had a different task and it wasn’t long before we all had a working prototype. Using Github we combined all of our work and tried to create a working program. The problem very quickly became getting all of our different functions and variables to compile correctly.
+With enough effort, we had a program which did what we wanted. Of course, then the ideas started pouring in. We thought of all kinds of features we wanted to add. With the exception of one thing, that is all we did the rest of the hackathon. We kept adding new features and getting our program to work until we ran out of time. The last thing we had to finish was the presentation.
+
+Presenting It
+
+A huge part of a hackathon is the presentation of the final product. Through a demo and slideshow or video, your team explains what you built, the process of development and the struggles you encountered.
+
+The different websites, programs, applications and products my classmates made were amazing. There was a team named evil-corp which developed an entire application using a graphics library written in C. A team Pharmasutra developed a site and web app that built a platform for sharing prescription data which put the patient’s needs first. The winning team built a site and app for pharmacists to more easily manage their inventory.
+
+Our presentation was amazing. Joanna did a great job giving the audience an idea of what we built, how and why. However, our demo was quite a disappointment. When we went to show our product we were ill prepared and ran out of time. We didn’t truthfully get an opportunity to demo our product. At the time it was quite devastating. To work for two days straight and not get to share our work. However, you know me. It didn’t take long for me to find the bright side.
+
+I had learned so much. In the two days, I learned a ridiculous amount of the development process. I learned how to more efficiently work with a team. I learned more about developing in C. I learned a lot more about git. I learned I need to learn so many more development languages.
+
+More importantly, I had a great time with my friends and made some new ones along the way. We spent two whole days helping each other and working together. We taught each other and built some amazing things. We went out, ate and developed as a team. It was an amazing experience. Thank you to everyone involved. A special shout out to team Pillsbury Joanna, Deb, Matt and Devin for making this whole experience memorable.  And congratulations to every team that made it to the end. 42 Silicon Valley did a great job hosting and participating in our first ever hackathon.
